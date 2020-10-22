@@ -2,10 +2,10 @@
 
 Some description!
 
-# Subheader
+## Subheader
 
 Watch toturials on YouTube.
 
-# Local Development
+## Local Development
 
 1. Open index.html in your browser.
